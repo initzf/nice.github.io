@@ -6,7 +6,7 @@
 
 | 文件 | 说明 |
 |------|------|
-| `PRIVACY_POLICY.html` | App 隐私政策（中文，HTML 格式） |
+| `index.html` | App 隐私政策（中文，HTML 格式，GitHub Pages 首页） |
 
 ## 使用方式
 
@@ -14,12 +14,12 @@
 
 推荐链接格式：
 ```
-https://[your-github-username].github.io/[repo-name]/PRIVACY_POLICY.html
+https://initzf.github.io/nice.github.io/
 ```
 
 ## 更新维护
 
-如需更新隐私政策，请直接修改 `PRIVACY_POLICY.html` 文件，并更新文件头部的"最后更新日期"。
+如需更新隐私政策，请直接修改 `index.html` 文件，并更新文件头部的"最后更新日期"。
 
 ---
 
